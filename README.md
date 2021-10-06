@@ -7,7 +7,7 @@
 * [Setup](#setup)
 
 ## General info
-Project built for the grade C214 at INATEL using Flutter as main framework
+Update soon
 	
 ## Technologies
 Project is created with:
