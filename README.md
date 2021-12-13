@@ -1,9 +1,3 @@
-# [![Flutter logo][]][flutter.dev]
-
-[![Build Status - Cirrus][]][Build status]
-[![Discord badge][]][Discord instructions]
-[![Twitter handle][]][Twitter badge]
-
 Flutter is Google's SDK for crafting beautiful, fast user experiences for
 mobile, web, and desktop from a single codebase. Flutter works with existing
 code, is used by developers and organizations around the world, and is free
