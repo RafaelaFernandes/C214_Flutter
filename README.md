@@ -47,7 +47,7 @@ $ choco install dart-sdk
 
 ## 🛠 Usage
 
-🔹´To use this calculator, after running on your machine, you'll have a few calculation functions:
+🔹To use this calculator, after running on your machine, you'll have a few calculation functions:
 <img src="images/start.PNG"/>
 
 🔹 Just choose what you want to calculate and it will return the value to you:
