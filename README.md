@@ -35,12 +35,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### 📣 Installation
 
-A step by step guide that will tell you how to get the development environment up and running.
+A step by step guide that will tell you how to get the development environment up and running. 
+Make sure you have Android Studio and Flutter Already installed on your machine!
 
 ```
 $ git clone https://github.com/RafaelaFernandes/C214_Flutter.git
 $ flutter create .
-`` if needed to install Dart SDK run the following on your powershell with admin level: ``
+if needed to install Dart SDK run the following on your powershell with admin level:
 $ choco install dart-sdk
 ```
 
@@ -68,13 +69,13 @@ You might assume that every cross-platform framework can perform some things and
 
 
 ## Start Screen
-<img src="images/start.png"/>
+<img src="images/start.PNG"/>
 
 ## Add Screen
 
-<img src="images/add.png"/>
+<img src="images/add.PNG"/>
 
 ## Result Screen
 
-<img src="images/result.png"/>
+<img src="images/result.PNG"/>
 
