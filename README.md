@@ -44,7 +44,7 @@ $ flutter create .
 $ choco install dart-sdk
 ```
 
-## Usage
+## 🛠 Usage
 
 To use this calculator, after running on your machine, you'll have a few calculation functions:
 *[Start Screen](#Start-Screen)
